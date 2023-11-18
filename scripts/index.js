@@ -174,7 +174,7 @@ function showMovieInDetails(movieObj, targetItem) {
         </div>
         <div class="movie-details__meta">
             <span class="--label">Summary:</span>
-            <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt...</p>
+            <p>Action ,Romance,Comedy,thiller,fear..etc.</p>
         </div>`;
 
     detailsWrapper.append(detailsElm);
